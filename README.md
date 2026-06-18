@@ -5,7 +5,7 @@
 > video/film production schedule, and **cross-checks its answer with two
 > independent algorithms** on the same instances.
 
-**Repository:** https://github.com/milhan-z/draftpaa
+**Repository:** [https://github.com/milhan-z/draftpaa](https://github.com/milhan-z/FPDAA)
 
 ---
 
